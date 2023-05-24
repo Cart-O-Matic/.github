@@ -7,7 +7,7 @@
 | :-------------: | :-------------: | :-------------: |
 | Diego Guerrero Carrasco | [d.guerrero.2018@alumnos.urjc.es](mailto:d.guerrero.2018@alumnos.urjc.es) | [diego-guerrero](https://github.com/diego-guerrero)
 | Jorge Adame Prudencio | [j.adame.2018@alumnos.urjc.es](mailto:j.adame.2018@alumnos.urjc.es) | [jorge-ap](https://github.com/jorge-ap)
-| Alberto Pérez Pérez | [a.perezpe.2018@alumnos.urjc.es](mailto:a.perezpe.2018@alumnos.urjc.es) | [C0nf1cker](https://github.com/C0nf1cker)
+| Alberto Pérez Pérez | [a.perezpe.2018@alumnos.urjc.es](mailto:a.perezpe.2018@alumnos.urjc.es) | [cfkr-dev](https://github.com/cfkr-dev)
 
 ## Contenido del proyecto
 Todo el contenido divulgado se puede encontrar en [este repositorio](https://github.com/Cart-O-Matic/Cart-O-Matic), así como una descripción pormenorizada de los recursos introducidos.
